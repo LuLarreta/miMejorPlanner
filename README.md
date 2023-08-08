@@ -1,4 +1,5 @@
 # planner-semanal
+# una aplicacion de Vue.cli utilizando Vuetify, permite agregar, editar y eliminar tareas, tanto semanales como mensuales, y mostrarlas en un bonito planner. Se utilizo fetch para conectarse a la base de datos.
 
 ## Project setup
 ```
